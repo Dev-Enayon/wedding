@@ -9775,3 +9775,13 @@ a.text-dark:hover, a.text-dark:focus {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
 }
+
+.num {
+  display: flex;
+  justify-content: center; /* center horizontally */
+}
+
+.phone-number {
+  margin: 0;
+  color: white;
+}
