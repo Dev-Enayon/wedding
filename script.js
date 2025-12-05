@@ -115,7 +115,7 @@
     
     // Countdown Timer
     function updateCountdown() {
-        const weddingDate = new Date("December 12, 2025 11:00:00").getTime();
+        const weddingDate = new Date("December 13, 2025 11:00:00").getTime();
         const now = new Date().getTime();
         const timeLeft = weddingDate - now;
 
@@ -138,7 +138,7 @@
 
     // Typing Effect
     const typingTextElements = document.querySelectorAll(".typing-text");
-    const phrases = ["We're getting married", "#AnEndlessLove'25", "December 12, 2025"];
+    const phrases = ["We're getting married", "#AnEndlessLove'25", "December 13, 2025"];
     let phraseIndex = 0;
     let charIndex = 0;
     let isDeleting = false;

@@ -9778,7 +9778,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .num {
   display: flex;
-  justify-content: center; /* center horizontally */
+  justify-content: center; 
 }
 
 .phone-number {
